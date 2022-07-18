@@ -5,6 +5,9 @@ contributor:
     agent_name: Lebhar, Bertram
     gutenberg_agent_id: '54586'
     url: http://www.gutenberg.org/2009/agents/54586
+covers:
+- cover_type: archival
+  image_path: 68361-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -16,6 +19,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43953
     - http://www.gutenberg.org/ebooks/author/2983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68361#Nick-Carter-Stories-No-159-September-25-1915-Driven-from-cover-or-Nick-Carter-s-double-ruse
 gutenberg_issued: '2022-06-21'
 identifiers:
   gutenberg: '68361'
